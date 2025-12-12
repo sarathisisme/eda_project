@@ -1,7 +1,13 @@
-[![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
-# ds-project-template
+# EDA for king county dataset
 
-Template for creating ds simple projects
+Please follow instructions below for the setup. After the setup you can use the two jupyter notebooks for EDA:
+- Hypotheses_EDA.ipynb : Contains the EDA to support the three hypotheses that we have formulated
+- Client_EDA.ipynb : Contains the EDA required to make 3 recommendations to help our client
+
+Final results of the EDA can be found in:
+- EDA_Presentation_final.pdf : presentation
+- All the result images can be found in folder images/
+
 
 ## Requirements
 
